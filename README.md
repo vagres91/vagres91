@@ -40,7 +40,7 @@ Check out my pinned repositories for:
 ### 📫 Let's Connect!
 - Discord: `kabraina`
 - Email: `ardajayozturk@gmail.com`
-- Twitter: [@vilgarian](https://x.com/vilgarian?s=21)
+- Twitter: [@vilargran](https://x.com/vilargran)
 
 ---
 

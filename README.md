@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Arda 👋</h1>
 
-<!--
-**vagres91/vagres91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔐 Aspiring Penetration Tester | 🧠 Always Learning | ⚙️ Cybersecurity Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+- 🧠 Self-taught in cybersecurity, focused on offensive security & pentesting.
+- ⚔️ Practicing on platforms like Hack The Box & TryHackMe.
+- 💻 Building tools, learning Linux, and writing writeups.
+- 🎯 Goal: Become a professional ethical hacker & work on real-world web security.
+
+---
+
+### 🛠️ Tools & Technologies
+![Nmap](https://img.shields.io/badge/-Nmap-007ACC?style=flat-square&logo=nmap)
+![Burp Suite](https://img.shields.io/badge/-BurpSuite-orange?style=flat-square&logo=burpsuite)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-black?style=flat-square&logo=kalilinux)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📂 Projects & Writeups
+Check out my pinned repositories for:
+- 🧠 CTF writeups (TryHackMe, Hack The Box)
+- 🔍 Simple tools for scanning and enumeration
+- 🛡️ Notes on web app security & OWASP Top 10
+
+---
+
+### 📊 GitHub Stats
+
+![Arda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vagres91&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- Discord: `kabraina`
+- Email: `ardajayozturk@gmail.com`
+- Twitter: [@vilgarian](https://x.com/vilgarian?s=21)
+
+---
+
+> “Hack to learn, not to destroy.”

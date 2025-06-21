@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Arda 👋</h1>
+<h1 align="center">Hey there, I'm Jay 👋</h1>
 
 <p align="center">
   🔐 Aspiring Penetration Tester | 🧠 Always Learning | ⚙️ Cybersecurity Enthusiast
